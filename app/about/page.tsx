@@ -76,18 +76,19 @@ export default function AboutPage() {
           <div>
             <SectionHeading
               eyebrow="The Founder"
-              title="Raised on many musics."
-              description="The studio was founded by a composer who grew up switching between a violin lesson and a jazz record, between a temple concert and a film score."
+              title="Hrishabh Saxena."
+              eyebrow="Music Director • Producer • Multi-Instrumentalist"
+              description="At the heart of D’Rimél Production is Hrishabh Saxena, a music director, producer, educator, and multi-instrumentalist driven by a passion for transforming ideas into powerful musical experiences."
             />
             <div className="mt-8 space-y-6 leading-relaxed text-muted-foreground">
               <p>
-                That restlessness became a method. Rather than choosing a single lineage,
-                D&apos;Rimél treats every tradition as a living language — something to be spoken
-                fluently, not sampled from a distance.
+                With over 15 years of experience in music, Hrishabh has developed a versatile musical vocabulary spanning Western Classical, Indian Classical, Jazz, Rock, Fusion, Bollywood, Flamenco, Latin music, and orchestral composition. His primary instrument is the piano, complemented by his expertise in instruments including flute, harmonica, mandolin, violin, harmonium, melodica, cajón, and more.
               </p>
               <p>
-                The result is a body of work that refuses easy genre: symphonic in ambition,
-                intimate in detail, and always in service of a story.
+                As the founder of D’Rimél Production, his vision is to build a creative space where composition, orchestration, sound design, production, and storytelling come together. From cinematic scores and symphonic compositions to songs, jingles, theatre music, and contemporary productions, every project is approached with a balance of musicality, emotion, and professional production.
+              </p>
+              <p>
+                Through D’Rimél Production, Hrishabh continues to work toward creating distinctive musical identities and meaningful sound experiences for artists, filmmakers, brands, theatres, and audiences.
               </p>
             </div>
           </div>
