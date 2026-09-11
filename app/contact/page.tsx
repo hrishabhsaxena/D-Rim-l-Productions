@@ -11,8 +11,8 @@ export const metadata: Metadata = {
 }
 
 const details = [
-  { Icon: Mail, label: 'Email', value: 'hello@drimel.studio', href: 'mailto:hello@drimel.studio' },
-  { Icon: MapPin, label: 'Studio', value: 'By appointment · Worldwide remote', href: null },
+  { Icon: Mail, label: 'Email', value: 'contact@drimelproductions.com', href: 'mailto:contact@drimelproductions.com' },
+  { Icon: MapPin, label: 'Studio', value: 'By appointment', href: null },
   { Icon: Clock, label: 'Response', value: 'Within 2 business days', href: null },
 ]
 
