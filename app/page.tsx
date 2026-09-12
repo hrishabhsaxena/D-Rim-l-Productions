@@ -14,6 +14,21 @@ const stats = [
   { value: '6', label: 'Traditions Fused' },
   { value: '10 yrs', label: 'In the Studio' },
 ]
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="en">
+      <body>
+        {children}
+
+        <BackgroundMusic />
+      </body>
+    </html>
+  );
+}
 
 export default function HomePage() {
   const featured = projects.slice(0, 3)
