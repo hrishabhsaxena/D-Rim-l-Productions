@@ -17,6 +17,22 @@ const inter = Inter({
   display: 'swap',
 })
 
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="en">
+      <body>
+        {children}
+
+        <BackgroundMusic />
+      </body>
+    </html>
+  );
+}
+
 export const metadata: Metadata = {
   title: {
     default: "D'Rimél Productions — Cinematic Music & Symphonic Storytelling",
